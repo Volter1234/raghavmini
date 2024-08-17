@@ -1,0 +1,149 @@
+.Navigation{
+    background-color: #027F7BA6;
+}
+
+.navbar{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.navbar-brand{
+    font-size: 2rem !important;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
+
+.nav-link{
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+    font-size: 1.15rem !important;
+    color: white !important;
+}
+
+.nav-link:hover{
+    background-color: white;
+    color: #027F7BA6 !important;
+    border-radius: 29px ;
+}
+
+.introComp{
+    background-color: #027F7BA6;
+    height: 100%;
+    width: 100%;
+}
+
+.introtext{
+    padding-left: 10%;
+    padding-top: 13%;
+    padding-bottom: 12%;
+}
+
+.Mainhead{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+    font-size: 3.5rem;
+}
+
+.introtext h3{
+    font-family: "Roboto Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+    color: white;
+}
+
+.AboutSec{
+    text-align: center;
+    padding-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.AboutSec h1{
+    color: #086F6B;
+    margin-bottom: 5%;
+    font-family: "Roboto Serif", serif;
+    font-weight: 500;
+    font-size: 3rem;
+}
+
+.AboutSec p{
+    color: #058C88;
+    font-family: "Roboto Serif", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.3rem;
+}
+
+.Numbers{
+    background-color: #027F7B;
+    color: white;
+    justify-content: center;
+    padding-top: 5%;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.stats{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.stats h2{
+    font-family: "Roboto Serif", serif;
+    font-weight: 600;
+    font-size: 4rem;
+}
+
+.stats h3{
+    font-family: "Roboto Serif", serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.services{
+    padding-top: 5%;
+    text-align: center;
+    list-style-position: inside;
+    justify-content: center;
+}
+
+.carousel-indicators{
+    bottom: -20px !important;
+}
+
+.services h1{
+    padding-bottom: 5%;
+    font-family: "Roboto Serif", serif;
+    font-weight: 600;
+    font-size: 3.5rem;
+    color: #086F6B;
+}
+
+
+#carouselExampleIndicators{
+    position: relative;
+    background-color: #8CC0BF;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+#carouselExampleIndicators h2{
+    color: white;
+    padding-bottom: 2%;
+}
+
+#carouselExampleIndicators li{
+    color: #027F7B;
+    font-family: "Roboto Serif", serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
